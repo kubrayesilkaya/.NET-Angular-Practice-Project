@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kubra\\GitHub\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\github\\practice\\practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\github\\practice\\practice\\services\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\services\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\github\\practice\\practice\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\github\\practice\\practice\\model\\core\\tokenconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\model\\core\\tokenconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\github\\practice\\practice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\github\\practice\\practice\\model\\request\\auth\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\model\\request\\auth\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\github\\practice\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\github\\practice\\practice\\services\\interfaces\\itokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\services\\interfaces\\itokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenConfig.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\GitHub\\Practice\\Practice\\Model\\Core\\TokenConfig.cs",
+              "RelativeDocumentMoniker": "Practice\\Model\\Core\\TokenConfig.cs",
+              "ToolTip": "C:\\Users\\kubra\\GitHub\\Practice\\Practice\\Model\\Core\\TokenConfig.cs",
+              "RelativeToolTip": "Practice\\Model\\Core\\TokenConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:34:34.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\GitHub\\Practice\\Practice\\Model\\Request\\Auth\\LoginUserRequest.cs",
+              "RelativeDocumentMoniker": "Practice\\Model\\Request\\Auth\\LoginUserRequest.cs",
+              "ToolTip": "C:\\Users\\kubra\\GitHub\\Practice\\Practice\\Model\\Request\\Auth\\LoginUserRequest.cs",
+              "RelativeToolTip": "Practice\\Model\\Request\\Auth\\LoginUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:15:24.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kubra\\GitHub\\Practice\\Practice\\appsettings.json",
+              "RelativeDocumentMoniker": "Practice\\appsettings.json",
+              "ToolTip": "C:\\Users\\kubra\\GitHub\\Practice\\Practice\\appsettings.json",
+              "RelativeToolTip": "Practice\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T12:57:20.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\GitHub\\Practice\\Practice\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Practice\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\kubra\\GitHub\\Practice\\Practice\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Practice\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:52:03.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\GitHub\\Practice\\Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\kubra\\GitHub\\Practice\\Practice\\Program.cs",
+              "RelativeToolTip": "Practice\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:51:14.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\GitHub\\Practice\\Practice\\Services\\Interfaces\\ITokenHandler.cs",
+              "RelativeDocumentMoniker": "Practice\\Services\\Interfaces\\ITokenHandler.cs",
+              "ToolTip": "C:\\Users\\kubra\\GitHub\\Practice\\Practice\\Services\\Interfaces\\ITokenHandler.cs",
+              "RelativeToolTip": "Practice\\Services\\Interfaces\\ITokenHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:48:32.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\GitHub\\Practice\\Practice\\Services\\TokenHandler.cs",
+              "RelativeDocumentMoniker": "Practice\\Services\\TokenHandler.cs",
+              "ToolTip": "C:\\Users\\kubra\\GitHub\\Practice\\Practice\\Services\\TokenHandler.cs",
+              "RelativeToolTip": "Practice\\Services\\TokenHandler.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:07:09.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\GitHub\\Practice\\Practice\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Practice\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\kubra\\GitHub\\Practice\\Practice\\Services\\AuthService.cs",
+              "RelativeToolTip": "Practice\\Services\\AuthService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwE4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:13:57.113Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

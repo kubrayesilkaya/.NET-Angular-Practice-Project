@@ -1,0 +1,39 @@
+
+<div class="login-wrapper">
+  <form #loginForm="ngForm" class="login-form" novalidate>
+  <h2 class="title">Kullanıcı Girişi</h2>
+
+  <div class="form-group">
+    <label for="userNameOrEmail">Kullanıcı Adı veya E-posta</label>
+    <input
+      id="userNameOrEmail"
+      name="userNameOrEmail"
+      type="text"
+      class="form-control"
+      ngModel
+      autocomplete="username"
+    />
+  </div>
+
+  <div class="form-group">
+    <label for="password">Şifre</label>
+    <input
+      id="password"
+      name="password"
+      type="password"
+      class="form-control"
+      ngModel
+      autocomplete="current-password"
+    />
+  </div>
+
+  <div class="forgot-password mb-3 text-end"><a href="#">Şifremi Unuttum?</a>
+  </div>
+
+  <button type="button" class="btn-submit mb-2">Giriş Yap</button>
+
+  <button type="button" class="btn-signup">Kayıt Ol</button>
+
+</form>
+</div>
+
